@@ -1,0 +1,6 @@
+{
+  "name": "AuditCheck - Validador de Duplicidades",
+  "description": "Sistema para verificação de duplicidade de execuções em relatórios prestadores, validando beneficiário, procedimento, situação, transação e quantidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
